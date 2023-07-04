@@ -45,7 +45,7 @@ let questions = [
     },
     {
         numb: 5,
-        question: "To whom you can confess our relationship",
+        question: "To whom you can confess our relationship?",
         answer: "2. Person from the group",
         options: [
             "1. One of your family",

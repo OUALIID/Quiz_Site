@@ -40,7 +40,7 @@ body {
 }
 .main {
     min-height: 100vh;
-    background: url(2w.jpg);
+    background: url(cat.jpg);
     background-size: cover;
     background-position: center;
     pointer-events: auto;
@@ -172,9 +172,8 @@ body {
 .quiz-section {
     position: relative;
     left: -50%;
-    /*  left: 0;*/
     width: 100%;
-    background: url(11.jpg);
+    background: url(fog.jpg);
     background-size: cover;
     background-position: center;
     pointer-events: auto;
