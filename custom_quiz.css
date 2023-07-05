@@ -40,7 +40,7 @@ body {
 }
 .main {
     min-height: 100vh;
-    background: url(cat.jpg);
+    background: url(pictures/cat.jpg);
     background-size: cover;
     background-position: center;
     pointer-events: auto;
@@ -173,7 +173,7 @@ body {
     position: relative;
     left: -50%;
     width: 100%;
-    background: url(fog.jpg);
+    background: url(pictures/fog.jpg);
     background-size: cover;
     background-position: center;
     pointer-events: auto;
