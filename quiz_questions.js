@@ -1,57 +1,57 @@
 let questions = [
     {
         numb: 1,
-        question: "When was the first day we got to know each other?",
-        answer: "2. February 20 2023",
+        question: "The question ?",
+        answer: "1. question_1",
         options: [
-            "1. February 15 2023",
-            "2. February 20 2023",
-            "3. February 16 2023",
-            "4. February 2 2023"
+            "1. question_1",
+            "2. question_1",
+            "3. question_1",
+            "4. question_1"
         ]
     },
     {
         numb: 2,
-        question: "The first day we met each other?",
-        answer: "4. April 9 2023",
+        question: "The question ?",
+        answer: "2. question_2",
         options: [
-            "1. April 21 2023",
-            "2. April 14 2023",
-            "3. April 30 2023",
-            "4. April 9 2023"
+            "1. question_2",
+            "2. question_2",
+            "3. question_2",
+            "4. question_2"
         ]
     },
     {
         numb: 3,
-        question: "In the future, can I hold your hand?",
-        answer: "1. You can",
+        question: "The question ?",
+        answer: "3. question_3",
         options: [
-            "1. You can",
-            "2. You can not",
-            "3. I need to think",
-            "4. I will kill you"
+            "1. question_3",
+            "2. question_3",
+            "3. question_3",
+            "4. question_3"
         ]
     },
     {
         numb: 4,
-        question: "How do you consider me?",
-        answer: "3. Life partner",
+        question: "The question ?",
+        answer: "4. question_4",
         options: [
-            "1. Your lover",
-            "2. Your friend",
-            "3. Life partner",
-            "4. Nothing"
+            "1. question_4",
+            "2. question_4",
+            "3. question_4",
+            "4. question_4"
         ]
     },
     {
         numb: 5,
-        question: "To whom you can confess our relationship?",
-        answer: "2. Person from the group",
+        question: "The question ?",
+        answer: "1. question_5",
         options: [
-            "1. One of your family",
-            "2. Person from the group",
-            "3. Your friend Khawla or Douha",
-            "4. Another person"
+            "1. question_5",
+            "2. question_5",
+            "3. question_5",
+            "4. question_5"
         ]
     }
 ];
